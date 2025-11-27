@@ -1,2 +1,7 @@
 # Desarrollo-de-Videojuegos-2
-Avance 
+## Integrantes 
+
+## Javier Baquedano
+
+## Leonardo Hidalgo
+### leonardo.hidalgo04@inacapmail.cl
